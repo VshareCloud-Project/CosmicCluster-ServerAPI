@@ -1,0 +1,9 @@
+redis
+requests
+uvicorn
+fastapi
+pymysql
+rsa
+pyOpenSSL
+pycryptodome
+psutil
